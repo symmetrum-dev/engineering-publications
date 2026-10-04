@@ -16,8 +16,8 @@ differ, Zenodo wins.
 
 ## Licence
 
-All four works are licensed under Creative Commons Attribution-ShareAlike 4.0
-International (CC BY-SA 4.0). See `LICENSE`. Cite by DOI.
+All four works are licensed under Creative Commons Attribution 4.0 International
+(CC BY 4.0), as stated in each PDF. See `LICENSE`. Cite by DOI.
 
 ## Revisions
 
