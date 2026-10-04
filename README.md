@@ -4,8 +4,9 @@ Public mirror of Symmetrum's published engineering works, by Phil Russo. Togethe
 four works form the Meridian Model: https://www.meridian-model.ai
 
 The version of record for each work is its Zenodo record. The PDFs here are copies of
-the files on Zenodo, under the same filenames. If this repository and Zenodo ever
-differ, Zenodo wins.
+the files on Zenodo, under the same filenames. If a PDF here and the file on Zenodo
+ever differ, the Zenodo file wins. The licence is stated inside each PDF, and that
+statement is authoritative over any record metadata; see Licence below.
 
 | Work | File | DOI | Zenodo record |
 | --- | --- | --- | --- |
@@ -17,7 +18,11 @@ differ, Zenodo wins.
 ## Licence
 
 All four works are licensed under Creative Commons Attribution 4.0 International
-(CC BY 4.0), as stated in each PDF. See `LICENSE`. Cite by DOI.
+(CC BY 4.0), as stated in each PDF's colophon. See `LICENSE`. Cite by DOI.
+
+The Zenodo record metadata currently shows CC BY-SA 4.0. That is a metadata error
+being corrected by the author; the licence printed in the PDFs is the one that
+applies.
 
 ## Revisions
 
